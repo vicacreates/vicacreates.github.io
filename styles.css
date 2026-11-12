@@ -49,4 +49,5 @@ color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetic
 .rp-foot{margin-top:36px;padding-top:14px;border-top:1px solid #E6DB9A;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;font-size:.82rem}
 .rp-logo{width:104px;height:auto;display:block}
 .rp details{margin-top:18px;font-size:.88rem}.rp summary{cursor:pointer;font-weight:600}
+.rp-how td{vertical-align:top}.rp-how td:first-child{min-width:150px}
 @media print{.rp{background-image:none;box-shadow:none}.rp-sec{break-inside:avoid-page}}
